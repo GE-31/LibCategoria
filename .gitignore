@@ -1,0 +1,8 @@
+build/
+dist/
+dist-lib/
+dist-protected/
+nbproject/private/
+.gradle/
+*.class
+*.jar
